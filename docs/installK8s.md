@@ -9,9 +9,9 @@ Ideally this is done using a separate infrastructure-as-code pipeline to create 
 (See hashicorp's terraform example [here](https://learn.hashicorp.com/tutorials/terraform/aks))
 
 ### Set up Kubernetes  
-* [On Azure](azure-aks.md)
-* On AWS (in progress)
-* On GCP (TODO)
+* [On Azure](../azure/readme.md)
+* [On AWS](../aws/readme.md)
+* [On GCP](../gcp/readme.md)
 * Locally (in progress)
 
 You should now have a running/working `kubectl`

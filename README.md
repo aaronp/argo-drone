@@ -1,5 +1,7 @@
 # argo-demo
-A demo use of [Argo CD](https://argo-cd.readthedocs.io/en/stable/) ([docs](https://argo-cd.readthedocs.io/en/stable/)). 
+This repo is a playground/demo for use of [Argo CD](https://argo-cd.readthedocs.io/en/stable/) ([docs](https://argo-cd.readthedocs.io/en/stable/)).
+
+It contains examples for runnin up a kubernetes cluster either locally or on a cloud provider (see "Set up a Kubernetes cluster" below), an example "helloworld" app, and other sundry examples.
 
 
 ## Pre-requisites
